@@ -7,6 +7,7 @@
         <module>spring-mongo-rest-api</module>
 		<module>spring-hello-world</module>
         <module>spring-elastic-search</module>
+        <module>spring-postgresql</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
