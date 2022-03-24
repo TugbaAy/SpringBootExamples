@@ -10,4 +10,6 @@ Install
 
 You must run the following commands before running the modules.
 Firstly you run the docker and then 
-"docker-compose -f ..../main/resources/docker-compose.yml up -d"  (Project have a docker-compose.yml)
+
+"docker-compose -f ..../main/resources/docker-compose.yml up -d"  
+(Project have a docker-compose.yml)
